@@ -1,0 +1,22 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#10091d"/>
+
+  <circle cx="200" cy="150" r="80" fill="#ffd600" opacity="0.08"/>
+  <circle cx="1000" cy="80" r="120" fill="#f7ff00" opacity="0.05"/>
+
+  <text x="100" y="140" fill="#ffffff"
+        font-family="Segoe UI, Arial"
+        font-size="48"
+        font-weight="700">
+    YellowCables
+  </text>
+
+  <text x="100" y="185"
+        fill="#c4c4c4"
+        font-family="Segoe UI, Arial"
+        font-size="18">
+    Modern Engineering + Digital Solutions Platform
+  </text>
+
+  <rect x="100" y="210" width="220" height="4" fill="#ffd600"/>
+</svg>
