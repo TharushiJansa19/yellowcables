@@ -1,11 +1,10 @@
 # 🚀 YellowCables – Official Company Website  
 
 <p align="center">
-  <img src="./assets/header.svg" alt="YellowCables Header" />
+  <img src="./src/assets/header.svg" alt="YellowCables Header" />
 </p>
 
 <p align="center">
-  <b>Modern Engineering + Digital Solutions Platform</b><br/>
   Built with React, TypeScript & Tailwind CSS
 </p>
 
